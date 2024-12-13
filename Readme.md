@@ -19,7 +19,7 @@ Toma las desiciones que veas oportunas y justificalas en el Readme
 Apartados:
 
 1. Realiza el diagrama de flujo para recorrer un tablero (8x8) de "Damas", sacando por pantalla si la casilla está ocupada (mostrando la coordenada) y que tipo de ficha es. Además cuenta las fichas de cada jugador sacando por pantalla quien va ganando. **No hace falta usar funciones**. Adjunta imagen y que se vea en el Readme.
-   ![TableroDamasPiero](/imagen/damasPiero.png)
+   ![TableroDamasPiero](./imagen/damasPiero.png)
    
    
 2. Como es el tablero? Pon un ejemplo.
@@ -36,4 +36,7 @@ Apartados:
    + vuelvo a imprimir en pantalla el tablero, la cantidad de piezas repito el bucle.
 
 3. Enumera funciones (mínimo tres) que se podrían utilizar para que el código quede más claro y sea más fácil de mantener.
+   + 
+   + 
+   + 
 4. Realiza el javadoc de estas funciones
